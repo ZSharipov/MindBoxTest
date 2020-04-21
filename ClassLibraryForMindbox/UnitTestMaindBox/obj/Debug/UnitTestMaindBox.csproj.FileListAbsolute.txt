@@ -1,0 +1,7 @@
+C:\Users\Zafar Sharipov\Documents\Visual Studio 2013\Projects\ClassLibraryForMindbox\UnitTestMaindBox\bin\Debug\UnitTestMaindBox.dll
+C:\Users\Zafar Sharipov\Documents\Visual Studio 2013\Projects\ClassLibraryForMindbox\UnitTestMaindBox\bin\Debug\UnitTestMaindBox.pdb
+C:\Users\Zafar Sharipov\Documents\Visual Studio 2013\Projects\ClassLibraryForMindbox\UnitTestMaindBox\bin\Debug\ClassLibraryForMindbox.dll
+C:\Users\Zafar Sharipov\Documents\Visual Studio 2013\Projects\ClassLibraryForMindbox\UnitTestMaindBox\bin\Debug\ClassLibraryForMindbox.pdb
+C:\Users\Zafar Sharipov\Documents\Visual Studio 2013\Projects\ClassLibraryForMindbox\UnitTestMaindBox\obj\Debug\UnitTestMaindBox.csprojResolveAssemblyReference.cache
+C:\Users\Zafar Sharipov\Documents\Visual Studio 2013\Projects\ClassLibraryForMindbox\UnitTestMaindBox\obj\Debug\UnitTestMaindBox.dll
+C:\Users\Zafar Sharipov\Documents\Visual Studio 2013\Projects\ClassLibraryForMindbox\UnitTestMaindBox\obj\Debug\UnitTestMaindBox.pdb

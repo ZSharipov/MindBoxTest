@@ -1,0 +1,4 @@
+C:\Users\Zafar Sharipov\Documents\Visual Studio 2013\Projects\ClassLibraryForMindbox\ClassLibraryForMindbox\bin\Debug\ClassLibraryForMindbox.dll
+C:\Users\Zafar Sharipov\Documents\Visual Studio 2013\Projects\ClassLibraryForMindbox\ClassLibraryForMindbox\bin\Debug\ClassLibraryForMindbox.pdb
+C:\Users\Zafar Sharipov\Documents\Visual Studio 2013\Projects\ClassLibraryForMindbox\ClassLibraryForMindbox\obj\Debug\ClassLibraryForMindbox.dll
+C:\Users\Zafar Sharipov\Documents\Visual Studio 2013\Projects\ClassLibraryForMindbox\ClassLibraryForMindbox\obj\Debug\ClassLibraryForMindbox.pdb
